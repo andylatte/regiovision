@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+theme: jekyll-sleek
+
+name: regiovision e.V.
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'Über uns', link: '/about'}
+  - {name: 'Kontakt', link: '/contact'}
