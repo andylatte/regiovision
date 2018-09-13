@@ -1,6 +1,6 @@
 theme: jekyll-sleek
 
-name: regiovision e.V.
+title: regiovision e.V.
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
