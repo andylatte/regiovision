@@ -1,10 +1,8 @@
 # SITE CONFIGURATION
 title: RegioVision e.V. # your site title
-author: GitHub User # You :P
+author: RegioVision e.V. # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  RegioVision e.V. - Verein für ökologisch und sozial nachhaltige Regionalentwicklung
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.verein-regiovision.de/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -22,13 +20,13 @@ url: "https://www.verein-regiovision.de/" # the base hostname & protocol for you
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Impressum', link: '/imprint'}
+  - {name: 'Kontakt', link: '/contact'}
 
 tagline: >
   Verein für ökologisch und sozial nachhaltige Regionalentwicklung
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/cheesy_rainbow.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
