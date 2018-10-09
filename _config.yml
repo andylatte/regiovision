@@ -1,4 +1,4 @@
-remote-theme: jekyll-sleek
+remote-theme: jekyll-theme-sleek
 
 title: regiovision e.V.
 # THEME SETTINGS
@@ -6,5 +6,3 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Über uns', link: '/about'}
   - {name: 'Kontakt', link: '/contact'}
-
-theme: jekyll-theme-minimal
