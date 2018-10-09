@@ -6,3 +6,5 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Über uns', link: '/about'}
   - {name: 'Kontakt', link: '/contact'}
+
+theme: jekyll-theme-minimal
