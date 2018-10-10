@@ -8,7 +8,7 @@ permalink: /imprint/
 
 ## Angaben gem&auml;&szlig; &sect; 5 TMG
 
-RegioVision e. V.<br/>
+RegioVision e.V.<br/>
 Karlshof 1<br/>
 17268 Templin
 
@@ -16,7 +16,7 @@ Vereinsregister: VR 3135 NP<br/>
 Registergericht: Amtsgericht Neuruppin
 
 **Vertreten durch den Vorstand:**
-Sina Michalik, 
+Sina Michalik,
 Timm Priebe
 
 ## Kontakt
