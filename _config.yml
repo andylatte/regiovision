@@ -26,7 +26,7 @@ navigation: # Navigation links
 tagline: >
   Verein für ökologisch und sozial nachhaltige Regionalentwicklung
 
-hero_img: posts/cheesy_rainbow.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/cheesy_rainbow.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 

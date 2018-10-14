@@ -24,10 +24,6 @@ Telefon: +49 (0) 3987 2009660<br/>
 Telefax: +49 (0) 3987 2009660<br/>
 E-Mail: regio-vision@web.de
 
-## Umsatzsteuer
-Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; &sect;27 a Umsatzsteuergesetz:
-DE 999 999 999
-
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 ### Haftung f&uuml;r Inhalte
