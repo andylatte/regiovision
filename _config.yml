@@ -4,7 +4,7 @@ author: RegioVision e.V. # You :P
 description: > # Meta description of Homepage
   RegioVision e.V. - Verein für ökologisch und sozial nachhaltige Regionalentwicklung
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://andylatte.github.io/regiovision/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://verein-regiovision.de/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 #social:
