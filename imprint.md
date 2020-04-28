@@ -16,8 +16,8 @@ Vereinsregister: VR 3135 NP<br/>
 Registergericht: Amtsgericht Neuruppin
 
 **Vertreten durch den Vorstand:**
-Sina Michalik,
-Timm Priebe
+Ilona Frank, 
+Jan Malte Täubrich
 
 ## Kontakt
 Telefon: +49 (0) 3987 2009660<br/>
